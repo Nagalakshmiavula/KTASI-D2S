@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Training outputs
+checkpoints/
+logs/
+results/
+
+# Dataset
+datasets/tiny_imagenet/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
